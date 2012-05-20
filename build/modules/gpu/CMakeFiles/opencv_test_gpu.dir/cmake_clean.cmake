@@ -1,0 +1,41 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/opencv_test_gpu.dir/test/test_threshold.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_objdetect.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_remap.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/precomp.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_nvidia.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_core.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_calib3d.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_filters.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_pyramids.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_warp_perspective.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_color.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_imgproc.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_warp_affine.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_features2d.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_video.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/main.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_resize.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/utility.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_copy_make_border.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/test_gpumat.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestDrawRects.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestHaarCascadeApplication.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestIntegralImageSquared.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestTranspose.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestHaarCascadeLoader.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestRectStdDev.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestHypothesesFilter.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestIntegralImage.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestResize.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestHypothesesGrow.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/main_nvidia.cpp.o"
+  "CMakeFiles/opencv_test_gpu.dir/test/nvidia/TestCompact.cpp.o"
+  "../../bin/opencv_test_gpu.pdb"
+  "../../bin/opencv_test_gpu"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/opencv_test_gpu.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)
